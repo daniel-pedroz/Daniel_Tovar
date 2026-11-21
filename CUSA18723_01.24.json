@@ -1,7 +1,7 @@
 {
   "name": "Elden Ring",
   "id": "CUSA18723",
-  "version": "01.24",
+  "version": "01.26",
   "process": "eboot.bin",
   "author": "Celogamez, Nicit (ported)",
   "mods": [
